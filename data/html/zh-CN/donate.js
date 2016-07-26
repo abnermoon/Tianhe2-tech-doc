@@ -1,0 +1,1 @@
+document.write("<h1>这只是一个测试</h1>\n\n<p>测试测试测试</p>\n<pre><code>[i18n]\nLANGS = zh-CN\nNAMES = 简体中文\n</code></pre>\n")
